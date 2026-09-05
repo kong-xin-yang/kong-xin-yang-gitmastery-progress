@@ -174,5 +174,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1788590287.830099,
+    "completed_at": 1788590289.393746,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
   }
 ]
